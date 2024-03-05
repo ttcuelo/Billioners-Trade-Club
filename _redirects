@@ -1,1 +1,4 @@
-/blog /post
+[[redirects]]
+from = "billionerstraderclub.netlify.app"
+to = "http://billionstradeclub.online/billons/registro.php"
+status = 301
